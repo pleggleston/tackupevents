@@ -1,0 +1,26 @@
+{
+  "name": "tackupevents",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@supabase/supabase-js": "2.39.7",
+    "date-fns": "3.6.0",
+    "lucide-react": "0.328.0",
+    "react-tinder-card": "1.4.3"
+  },
+  "devDependencies": {
+    "typescript": "5.3.3",
+    "@types/node": "20.11.19",
+    "@types/react": "18.2.33"
+  }
+}
